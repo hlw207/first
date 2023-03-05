@@ -1,0 +1,185 @@
+.book_manage {
+    display: none;
+    padding: 10px;
+    margin: 10px;
+    width: 1035px;
+    height: 480px;
+    background-color: rgba(255, 255, 255, 0.918);
+}
+
+.book_manage>input {
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    width: 150px;
+    height: 25px;
+}
+
+.book_manage select {
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    width: 150px;
+    height: 25px;
+}
+
+.search {
+    border: 1px solid lightgray;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: #2d8f82;
+    color: #f6f1f1;
+    padding: 5px;
+    width: 60px;
+    margin-left: 20px;
+}
+
+.add {
+    border: 1px solid lightgray;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    font-size: 12px;
+    background-color: rgb(4, 82, 250);
+    color: #f6f1f1;
+    padding: 5px;
+    margin-left: 8px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+.resign {
+    border: 1px solid lightgray;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    font-size: 12px;
+    background-color: rgb(4, 82, 250);
+    color: #f6f1f1;
+    padding: 5px;
+    margin-left: 8px;
+}
+
+.delete {
+    border: 1px solid lightgray;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    font-size: 12px;
+    background-color: red;
+    color: #f6f1f1;
+    padding: 5px;
+    margin-left: 8px;
+}
+
+.book_search {
+    height: 420px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 20px;
+    background-color: rgb(218, 220, 223);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border-bottom: 1px solid #ddd;
+}
+
+td {
+    margin-left: 50px;
+    text-align: left;
+    width: 100px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.td_first {
+    width: 40px;
+    text-align: center;
+}
+
+.td_last {
+    width: 341px;
+    text-align: center;
+}
+
+.sure {
+    width: 10px;
+    height: 15px;
+}
+
+.book {
+    background-color: #f6f1f1;
+}
+
+.certain {
+    border: 1px solid lightgray;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    font-size: 12px;
+    background-color: white;
+    color: black;
+    height: 25px;
+    margin-left: 8px;
+    margin-right: 8px;
+}
+
+.page {
+    margin: 10px;
+    text-align: left;
+}
+
+.Topage {
+    width: 30px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.book_change {
+    display: block;
+    padding: 40px;
+    margin: 10px;
+    width: 975px;
+    height: 420px;
+    background-color: rgba(255, 255, 255, 0.918);
+}
+
+.book_change>input {
+    width: 800px;
+    height: 20px;
+    margin: 15px;
+}
+
+.book_change>select {
+    width: 808px;
+    height: 30px;
+    margin: 15px;
+}
+
+.book_change>button {
+    border: 1px solid lightgray;
+    text-align: center;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: #2d8f82;
+    color: #f6f1f1;
+    padding: 5px;
+    width: 60px;
+    margin-left: 20px;
+}
